@@ -14,7 +14,8 @@ This project implements a hybrid deep learning approach for skin lesion classifi
         DINO (Self-supervised Vision Transformer)
         
 ## Project Structure
-
+'''
+.
 ├── cnn/
 │   ├── dataset.py
 │   ├── efficientnet_train.py
@@ -39,7 +40,7 @@ This project implements a hybrid deep learning approach for skin lesion classifi
 │   ├── optunasvm.py
 │   └── sVMs.py
 └── requirements.txt
-
+'''
 ## Features
     Binary classification (nevus vs others)
     Knowledge distillation from Google DermaNet
