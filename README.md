@@ -3,6 +3,9 @@
 ## Overview
 This project implements a hybrid deep learning approach for skin lesion classification by combining DeiT (Data-efficient Image Transformers) with knowledge distillation from Google DermaNet embeddings. The system achieves high accuracy in distinguishing between nevus and other skin conditions. In this task we used some cnn based models to be our basline in this project. 
 
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/7710b083-23d0-4e23-b71b-e5fed50923fe" />
+
+
 # by Aya Elgebaly, Muhammed Alberb 
 
 ## Architecture
